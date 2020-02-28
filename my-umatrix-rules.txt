@@ -1,0 +1,24 @@
+https-strict: behind-the-scene false
+matrix-off: about-scheme true
+matrix-off: behind-the-scene true
+matrix-off: chrome-extension-scheme true
+matrix-off: chrome-scheme true
+matrix-off: moz-extension-scheme true
+matrix-off: opera-scheme true
+matrix-off: vivaldi-scheme true
+matrix-off: wyciwyg-scheme true
+noscript-spoof: * true
+referrer-spoof: * true
+referrer-spoof: behind-the-scene false
+* * * block
+* * css allow
+* * frame allow
+* * image allow
+* * media allow
+* * other allow
+* * xhr allow
+* 1st-party * allow
+* ajax.googleapis.com script allow
+* bootstrapcdn.com script allow
+* cloudflare.com script allow
+chip.de * script block
