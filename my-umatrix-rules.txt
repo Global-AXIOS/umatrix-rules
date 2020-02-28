@@ -21,4 +21,3 @@ referrer-spoof: behind-the-scene false
 * ajax.googleapis.com script allow
 * bootstrapcdn.com script allow
 * cloudflare.com script allow
-chip.de * script block
